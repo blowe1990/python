@@ -1,0 +1,8 @@
+Test file to practice programming. 
+Each line will have random data.
+What data should it have? 
+I don’t know what data it should have. 
+The data should have itself with what is should have. 
+Data, data, data. 
+Info-data, terra-data max info-data max. 
+Business intelligence data processing. 
